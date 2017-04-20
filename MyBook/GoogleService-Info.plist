@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>681746132924-bsu5fet27jsiru8p2k397ofn9t0gfdbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.681746132924-bsu5fet27jsiru8p2k397ofn9t0gfdbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwmG-WM8-Jv-KosSzDk5j6tZ4NZB9HC_Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>681746132924</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>faizan.MyBook</string>
+	<key>PROJECT_ID</key>
+	<string>mybook-42090</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mybook-42090.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:681746132924:ios:941e628944c97a17</string>
+	<key>DATABASE_URL</key>
+	<string>https://mybook-42090.firebaseio.com</string>
+</dict>
+</plist>
